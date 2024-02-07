@@ -1,0 +1,202 @@
+@font-face {
+    font-family: Lora;
+    src: url(./Lora-Regular.ttf);
+}
+
+@font-face {
+    font-family: Oxygen;
+    src: url(./Oxygen-Regular.ttf);
+}
+
+body {
+    height: 2689px; 
+    width: 1440px;
+}
+
+img#background-bottom {
+    position: absolute;
+    top: 2600px;
+    width: 1440px;
+    height: 89px;
+}
+p#Escape-1{
+    width: 92px;
+    height: 26px;
+    position: absolute;
+    left: 250px;
+    top: 20px;
+    font-family: Lora;
+    font-size: 26px;
+}
+
+p#Home-1{
+    position: absolute;
+    width: 39px;
+    height: 20px;
+    top: 47px;
+    left: 833px;
+    font-family: Oxygen;
+    font-size: 12px;
+}
+
+p#Categories-1{
+    position: absolute;
+    width: 39px;
+    height: 20px;
+    top: 47px;
+    left: 913px;
+    font-family: Oxygen;
+    font-size: 12px;
+}
+
+p#About-1{
+    position: absolute;
+    width: 39px;
+    height: 20px;
+    top: 47px;
+    left: 1031px;
+    font-family: Oxygen;
+    font-size: 12px;
+}
+
+p#Contact-1{
+    position: absolute;
+    width: 39px;
+    height: 20px;
+    top: 47px;
+    left: 1112px;
+    font-family: Oxygen;
+    font-size: 12px;
+}
+h1#Headline{
+    position: absolute;
+    width: 498px;
+    height: 51px;
+    top: 156px;
+    left: 471px;
+    font-family: Lora;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+h2#Headline-2{
+    position: absolute;
+    width: 504px;
+    height: 20px;
+    top: 247px;
+    left: 468px;
+    font-family: Oxygen;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    color: #2e2e2e;
+    opacity: 0.63;
+    font-family: Oxygen;
+    letter-spacing: 0em;
+}
+
+img#main {
+    position: absolute;
+    width: 1440px;
+    height: 534px;
+    top: 360px;
+    border-radius: 3px;
+}
+
+p#post{
+    position: absolute;
+    width: 960px;
+    height: 1431px;
+    top: 1034px;
+    left: 240px;
+    font-family: Oxygen;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #101315;
+}
+
+p#Escape-2{
+    width: 92px;
+    height: 26px;
+    position: absolute;
+    left: 250px;
+    top: 2603px;
+    font-family: Lora;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+}
+
+p#Home-2{
+    position: absolute;
+    width: 37px;
+    height: 26px;
+    top: 2628px;
+    left: 918px;
+    font-family: Oxygen;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: right;
+    color: #ffffff;
+    opacity: 0.5;
+}
+
+p#Categories-2{
+    position: absolute;
+    width: 76px;
+    height: 26px;
+    top: 2628px;
+    left: 975px;
+    font-family: Oxygen;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: right;
+    color: #ffffff;
+    opacity: 0.5;
+}
+
+p#About-2{
+    position: absolute;
+    width: 42px;
+    height: 26px;
+    top: 2628px;
+    left: 1071px;
+    font-family: Oxygen;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: right;
+    color: #ffffff;
+    opacity: 0.5;
+}
+
+p#Contact-2{
+    position: absolute;
+    width: 57px;
+    height: 26px;
+    top: 2628px;
+    left: 1133px;
+    font-family: Oxygen;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: right;
+    color: #ffffff;
+    opacity: 0.5;
+}
